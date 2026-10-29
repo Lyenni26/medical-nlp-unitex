@@ -1,55 +1,63 @@
-# 🩺 Extraction d'Informations Médicales & TAL (Unitex & Python)
+# 🩺 Clinical NLP & Medical Information Extraction (Unitex & Python)
 
-Ce projet implémente une chaîne de traitement automatique du langage naturel (TALN / NLP) dédiée au domaine biomédical et clinique. Il combine la puissance linguistique du moteur **Unitex/GramLab** et des scripts d'automatisation en **Python** pour extraire des entités nommées (substances actives, médicaments) et analyser les structures posologiques dans un corpus textuel médical.
-
----
-
-## 📌 Objectifs & Fonctionnalités
-
-- **Constitution de ressources lexicales :** Extraction et structuration des substances médicamenteuses issues des dictionnaires VIDAL (lettres A à Z).
-- **Enrichissement morphologique :** Gestion des dictionnaires électroniques au format DELA (`Dela_fr`) et génération de lexiques spécifiques (`subst.dic`, `subst_corpus.dic`).
-- **Reconnaissance de motifs posologiques :** Analyse syntaxique locale basée sur des automates à états finis représentés par des graphes (`posologie.grf`).
-- **Pipeline de traitement :** Exécution coordonnée du parsing, du filtrage et de la génération des rapports d'extraction (`infos*.txt`).
+This project implements an end-to-end Natural Language Processing (NLP) pipeline tailored for the biomedical and clinical domains. It combines the rule-based linguistic power of the **Unitex/GramLab** engine with **Python** automation scripts to extract named clinical entities (active pharmaceutical substances, drug names) and parse complex dosage patterns (*posologie*) from raw medical corpora.
 
 ---
 
-## 🗂️ Structure du Projet
+## 📌 Objectives & Key Features
 
-- VIDAL/ : Pages sources des sommaires VIDAL (A à Z)
-- corpus-medical.txt : Corpus textuel brut contenant les données cliniques
-- subst.dic : Dictionnaire global des substances actives extraites
-- subst_corpus.dic : Substances identifiées spécifiquement dans le corpus
-- Dela_fr.bin / .inf : Dictionnaire morphologique français compilé pour Unitex
-- posologie.grf : Graphe Unitex pour la détection des posologies
-- Alphabet.txt / Norm.txt : Règles de segmentation et de normalisation textuelle
-- extraire.py : Script d'extraction des substances à partir des pages HTML
-- enrichir.py : Script d'enrichissement et d'alignement des dictionnaires
-- unitex.py : Script d'orchestration et d'exécution des modules Unitex
-- infos1.txt à infos3.txt : Données extraites et résultats des analyses
+- **Lexical Resource Construction:** Automated scraping, extraction, and structuring of active substances from VIDAL medical reference directories (indexes A through Z).
+- **Morphological Enrichment:** Electronic dictionary management conforming to the DELA format (`Dela_fr`), with automatic compilation of domain-specific lexicons (`subst.dic`, `subst_corpus.dic`).
+- **Dosage & Posology Pattern Recognition:** Local syntactic analysis powered by finite-state automata represented as grammar graphs (`posologie.grf`).
+- **End-to-End Pipeline Automation:** Integrated execution orchestrating text preprocessing, tokenization, dictionary lookups, graph parsing, and structured report exports (`infos*.txt`).
 
 ---
 
-## 🛠️ Technologies Utilisées
+## 🗂️ Project Structure
 
-- Linguistique computationnelle : Unitex / GramLab
-- Langage : Python 3
-- Formats lexicaux : DELA (Dictionnaires Électroniques du LADL), Graphes d'automates (.grf)
+- `VIDAL/`: Raw HTML source pages from the VIDAL medical drug summaries (A to Z).
+- `corpus-medical.txt`: Unstructured medical text corpus containing clinical notes.
+- `subst.dic`: Global dictionary of extracted pharmaceutical substances.
+- `subst_corpus.dic`: Filtered dictionary containing substances specifically matched against the corpus.
+- `Dela_fr.bin` / `Dela_fr.inf`: Compiled French morphological electronic dictionary for Unitex.
+- `posologie.grf`: Unitex finite-state graph for clinical dosage and administration pattern detection.
+- `Alphabet.txt` / `Norm.txt`: Tokenization, character set definitions, and text normalization rules.
+- `extraire.py`: Python script parsing HTML sources to compile substance inventories.
+- `enrichir.py`: Script handling DELA dictionary alignment and vocabulary enrichment.
+- `unitex.py`: Pipeline automation script executing Unitex command-line processing routines.
+- `infos1.txt` – `infos3.txt`: Final extracted entity outputs, matches, and structured analytical reports.
 
 ---
 
-## 🚀 Utilisation
+## 🛠️ Tech Stack
 
-1. Cloner le dépôt :
-   git clone https://github.com/<ton-pseudo>/<nom-du-repo>.git
-   cd <nom-du-repo>
+- **Linguistic Engine:** Unitex / GramLab
+- **Core Language:** Python 3
+- **Lexical & Grammar Formats:** DELA (LADL Electronic Dictionaries), Finite-State Automata Graphs (`.grf`)
 
-2. Extraction des substances depuis les sources VIDAL :
-   python extraire.py
+---
 
-3. Enrichissement des dictionnaires :
-   python enrichir.py
+## 🚀 Getting Started
 
-4. Lancement du pipeline linguistique Unitex :
-   python unitex.py
+### 1. Clone the repository
+```bash
+git clone https://github.com/<your-username>/<your-repo-name>.git
+cd <your-repo-name>
+```
 
-Les résultats d'analyse et les correspondances de posologie sont générés dans les fichiers infos1.txt, infos2.txt et infos3.txt.
+### 2. Extract substances from VIDAL sources
+```bash
+python extraire.py
+```
+
+### 3. Enrich and build DELA dictionaries
+```bash
+python enrichir.py
+```
+
+### 4. Run the Unitex linguistic processing pipeline
+```bash
+python unitex.py
+```
+
+Extraction outputs, matched clinical entities, and dosage analysis reports are automatically written to `infos1.txt`, `infos2.txt`, and `infos3.txt`.
