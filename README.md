@@ -1,6 +1,6 @@
 # 🩺 Clinical NLP & Medical Information Extraction (Unitex & Python)
 
-This project implements an end-to-end Natural Language Processing (NLP) pipeline tailored for the biomedical and clinical domains. It combines the rule-based linguistic power of the **Unitex/GramLab** engine with **Python** automation scripts to extract named clinical entities (active pharmaceutical substances, drug names) and parse complex dosage patterns (*posologie*) from raw medical corpora.
+This project implements an end-to-end Natural Language Processing (NLP) pipeline tailored for the biomedical and clinical domains. It combines the rule-based linguistic power of the **Unitex/GramLab** engine with **Python** automation scripts to extract named clinical entities (active pharmaceutical substances, drug names) and parse complex dosage patterns (_posologie_) from raw medical corpora.
 
 ---
 
@@ -40,22 +40,26 @@ This project implements an end-to-end Natural Language Processing (NLP) pipeline
 ## 🚀 Getting Started
 
 ### 1. Clone the repository
+
 ```bash
-git clone https://github.com/<your-username>/<your-repo-name>.git
-cd <your-repo-name>
+git clone https://github.com/Lyenni26/medical-nlp-unitex.git
+cd medical-nlp-unitex
 ```
 
 ### 2. Extract substances from VIDAL sources
+
 ```bash
 python extraire.py
 ```
 
 ### 3. Enrich and build DELA dictionaries
+
 ```bash
 python enrichir.py
 ```
 
 ### 4. Run the Unitex linguistic processing pipeline
+
 ```bash
 python unitex.py
 ```
