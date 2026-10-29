@@ -1,0 +1,27 @@
+Lettre :  A --> Nombre de substances actives : 198 
+Lettre :  B --> Nombre de substances actives : 81 
+Lettre :  C --> Nombre de substances actives : 175 
+Lettre :  D --> Nombre de substances actives : 112 
+Lettre :  É --> Nombre de substances actives : 87 
+Lettre :  F --> Nombre de substances actives : 80 
+Lettre :  G --> Nombre de substances actives : 50 
+Lettre :  H --> Nombre de substances actives : 31 
+Lettre :  I --> Nombre de substances actives : 77 
+Lettre :  J --> Nombre de substances actives : 1 
+Lettre :  K --> Nombre de substances actives : 6 
+Lettre :  L --> Nombre de substances actives : 71 
+Lettre :  M --> Nombre de substances actives : 120 
+Lettre :  N --> Nombre de substances actives : 65 
+Lettre :  O --> Nombre de substances actives : 46 
+Lettre :  P --> Nombre de substances actives : 151 
+Lettre :  Q --> Nombre de substances actives : 8 
+Lettre :  R --> Nombre de substances actives : 57 
+Lettre :  S --> Nombre de substances actives : 97 
+Lettre :  T --> Nombre de substances actives : 132 
+Lettre :  U --> Nombre de substances actives : 11 
+Lettre :  V --> Nombre de substances actives : 43 
+Lettre :  W --> Nombre de substances actives : 1 
+Lettre :  X --> Nombre de substances actives : 4 
+Lettre :  Y --> Nombre de substances actives : 1 
+Lettre :  Z --> Nombre de substances actives : 17 
+Total : 1722 

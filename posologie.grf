@@ -1,0 +1,41 @@
+#Unigraph
+SIZE 1800 1800
+FONT Times New Roman:  10
+OFONT Arial Unicode MS:B 12
+BCOLOR 16777215
+FCOLOR 0
+ACOLOR 13487565
+SCOLOR 16711680
+CCOLOR 255
+DBOXES y
+DFRAME n
+DDATE n
+DFILE n
+DDIR n
+DRIG n
+DRST n
+FITS 100
+PORIENT L
+#
+21
+"<E>" 15 538 1 2 
+"" 1766 465 0 
+"<N+subst>" 34 610 4 4 9 17 20 
+"mg+ml+\/+l+ml+dl+µG+mmol+fois+sachets+m²+kg+en+ng+g+4\/j+3\/j+-+mcg+inj+UI+cp+unités+inj+<NB>" 280 244 9 7 5 12 15 11 17 3 18 1 
+",+.+<NB>+%" 252 698 2 3 4 
+"<NB>" 846 190 1 6 
+"<MOT>" 998 140 2 6 16 
+"<MOT>" 750 69 2 5 7 
+"<MOT>" 670 1044 4 8 10 12 16 
+"<NB>+,+." 114 1000 3 9 13 15 
+"\:" 809 875 2 8 11 
+"¾+½+<NB>+\/+_+jour+j+\:+\\+(+)+." 977 502 2 11 14 
+"deux+par+jour+comprimés+gélule+Voie+ORALE+cpr+cinq+solution+pour+flacon+poudre+solvant+solution+ le+soir+midi+le matin+matin+midi" 439 843 2 1 16 
+"p+\:+%+si+un+g" 365 1061 1 8 
+"<NB>+(+)+-" 1207 517 2 1 14 
+"deux+comprimés+le+UI+\/+l+\:+<NB>+le+par+4O+U+µg+\/+h+%+ml+\++gr+KCI+cp+par+jour+ unités+une+seringue+La+J1+UI+ : +½+x+3+midi+le matin+matin+midi+¼+le+g+x+<NB>+sachet+x+comprimé+-+,+ sol+ inj+ amp+ cps+cp+ à+ 8+ h+ 00+ 1+ 20+coucher+<NB>+si   " 1116 1593 2 15 16 
+"soir+litre+litres+matin+jour+jours+millilitre+L+j+midi+le matin+matin+midi+l+ 00+j+amp+mois+midi+h+douleur+mg" 1548 962 2 1 14 
+"\:+<NB>+.+\/" 1043 274 3 17 16 15 
+"<MOT>" 703 629 4 18 19 16 12 
+"<NB>" 782 513 5 19 18 16 12 5 
+"à+\:+<MOT>" 252 849 2 4 9 

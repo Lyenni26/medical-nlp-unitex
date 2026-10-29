@@ -1,0 +1,312 @@
+amlor,.N+subst
+amoxicilline,.N+subst
+aldactone,.N+subst
+aerus,.N+subst
+allopurinol,.N+subst
+aladactone,.N+subst
+actrapid,.N+subst
+athymil,.N+subst
+augmentin,.N+subst
+alteis,.N+subst
+atarax,.N+subst
+aspégic,.N+subst
+alpress,.N+subst
+aotal,.N+subst
+acupan,.N+subst
+atacand,.N+subst
+alprazolam,.N+subst
+aprovel,.N+subst
+apports,.N+subst
+albumine,.N+subst
+axepim,.N+subst
+actiskenan,.N+subst
+aracytine,.N+subst
+actilyse,.N+subst
+amiodarone,.N+subst
+----------------------------------------------------------
+total de la lettre A est 25
+----------------------------------------------------------
+buflomedil,.N+subst
+burinex,.N+subst
+bristopen,.N+subst
+bisoprolol,.N+subst
+b1,.N+subst
+beytta,.N+subst
+byetta,.N+subst
+bipreterax,.N+subst
+----------------------------------------------------------
+total de la lettre B est 8
+----------------------------------------------------------
+crestor,.N+subst
+contramal,.N+subst
+cytarabine,.N+subst
+ceres,.N+subst
+cordarone,.N+subst
+calciparine,.N+subst
+cyclophosphamide,.N+subst
+ciflox,.N+subst
+cardensiel,.N+subst
+claventin,.N+subst
+coversyl,.N+subst
+calcidose,.N+subst
+calcidia,.N+subst
+clamoxyl,.N+subst
+claforan,.N+subst
+cortancyl,.N+subst
+cancidas,.N+subst
+chondrosulf,.N+subst
+cokenzen,.N+subst
+crp,.N+subst
+ceftriaxone,.N+subst
+codenfan,.N+subst
+ceris,.N+subst
+chibroproscar,.N+subst
+----------------------------------------------------------
+total de la lettre C est 24
+----------------------------------------------------------
+diurèse,.N+subst
+doxorubicine,.N+subst
+doliprane,.N+subst
+dalacine,.N+subst
+digoxine,.N+subst
+dedrogyl,.N+subst
+dafalgan,.N+subst
+duphalac,.N+subst
+detensiel,.N+subst
+deroxat,.N+subst
+discotrine,.N+subst
+daunorubicine,.N+subst
+diamicron,.N+subst
+----------------------------------------------------------
+total de la lettre D est 13
+----------------------------------------------------------
+eau,.N+subst
+enoxaparine,.N+subst
+erythromycine,.N+subst
+esidrex,.N+subst
+equanil,.N+subst
+elizor,.N+subst
+equanyl,.N+subst
+exelon,.N+subst
+ethanol,.N+subst
+ezetrol,.N+subst
+elisor,.N+subst
+----------------------------------------------------------
+total de la lettre E est 11
+----------------------------------------------------------
+fortimel,.N+subst
+forlax,.N+subst
+furosémide,.N+subst
+fonzylane,.N+subst
+fluconazole,.N+subst
+flagyl,.N+subst
+fluoxétine,.N+subst
+fuflomedil,.N+subst
+furosemide,.N+subst
+----------------------------------------------------------
+total de la lettre F est 9
+----------------------------------------------------------
+glucophage,.N+subst
+glivec,.N+subst
+glucor,.N+subst
+glucovans,.N+subst
+gaviscon,.N+subst
+gentamycine,.N+subst
+glucazide,.N+subst
+----------------------------------------------------------
+total de la lettre G est 7
+----------------------------------------------------------
+heparine,.N+subst
+hyzar,.N+subst
+hemigoxine,.N+subst
+hyperium,.N+subst
+héparine,.N+subst
+hydrocortisone,.N+subst
+hemicordarone,.N+subst
+heptamyl,.N+subst
+----------------------------------------------------------
+total de la lettre H est 8
+----------------------------------------------------------
+inexium,.N+subst
+idarubicine,.N+subst
+innohep,.N+subst
+innophep,.N+subst
+imovane,.N+subst
+ikorel,.N+subst
+iopidine,.N+subst
+inipomp,.N+subst
+inipomp40,.N+subst
+intraveineuse,.N+subst
+imodium,.N+subst
+----------------------------------------------------------
+total de la lettre I est 11
+----------------------------------------------------------
+januvia,.N+subst
+----------------------------------------------------------
+total de la lettre J est 1
+----------------------------------------------------------
+kaleorid,.N+subst
+kardegic,.N+subst
+kredex,.N+subst
+kardégic,.N+subst
+kcl,.N+subst
+keppra,.N+subst
+----------------------------------------------------------
+total de la lettre K est 6
+----------------------------------------------------------
+lasilix,.N+subst
+lovenox,.N+subst
+lodoz,.N+subst
+lantus,.N+subst
+levothyrox,.N+subst
+lexomil,.N+subst
+laroxyl,.N+subst
+lamictal,.N+subst
+lyrica,.N+subst
+lercan,.N+subst
+lercan10,.N+subst
+ldh,.N+subst
+----------------------------------------------------------
+total de la lettre L est 12
+----------------------------------------------------------
+moduretic,.N+subst
+methotrexate,.N+subst
+mucomyst,.N+subst
+metronidazole,.N+subst
+mopral,.N+subst
+metformine,.N+subst
+modopar,.N+subst
+metoprolol,.N+subst
+mytelase,.N+subst
+myolastan,.N+subst
+monipril,.N+subst
+----------------------------------------------------------
+total de la lettre M est 11
+----------------------------------------------------------
+nfs,.N+subst
+neomercazole,.N+subst
+novorapid,.N+subst
+norset,.N+subst
+neurontin,.N+subst
+----------------------------------------------------------
+total de la lettre N est 5
+----------------------------------------------------------
+oxynorm,.N+subst
+oflocet,.N+subst
+omeprazole,.N+subst
+oxycontin,.N+subst
+----------------------------------------------------------
+total de la lettre O est 4
+----------------------------------------------------------
+plavix,.N+subst
+perfalgan,.N+subst
+previscan,.N+subst
+pariet,.N+subst
+paracétamol,.N+subst
+polaramine,.N+subst
+potassium,.N+subst
+pipram,.N+subst
+paroxetine20,.N+subst
+protamine,.N+subst
+posologie,.N+subst
+profenid,.N+subst
+----------------------------------------------------------
+total de la lettre P est 12
+----------------------------------------------------------
+----------------------------------------------------------
+total de la lettre Q est 0
+----------------------------------------------------------
+rixuximab,.N+subst
+rocephine,.N+subst
+ramipril,.N+subst
+rivotril,.N+subst
+rimactan,.N+subst
+rifadine,.N+subst
+----------------------------------------------------------
+total de la lettre R est 6
+----------------------------------------------------------
+simvastatine,.N+subst
+seresta,.N+subst
+smecta,.N+subst
+speciafoldine,.N+subst
+singulair,.N+subst
+spasfon,.N+subst
+sevredol,.N+subst
+sulfarlem,.N+subst
+sotalol,.N+subst
+sandimmum,.N+subst
+solupred,.N+subst
+skenan,.N+subst
+subutex,.N+subst
+stilnox,.N+subst
+seropram,.N+subst
+solmucol,.N+subst
+----------------------------------------------------------
+total de la lettre S est 16
+----------------------------------------------------------
+triatec,.N+subst
+tanakan,.N+subst
+topalgic,.N+subst
+tazocilline,.N+subst
+triflucan,.N+subst
+tazociline,.N+subst
+tardyferon,.N+subst
+tavanic,.N+subst
+tahor,.N+subst
+témesta,.N+subst
+transipeg,.N+subst
+tienam,.N+subst
+temesta,.N+subst
+theostat,.N+subst
+tranxene,.N+subst
+tiapridal,.N+subst
+tareg,.N+subst
+trimebutine,.N+subst
+tegretol,.N+subst
+tenormine,.N+subst
+----------------------------------------------------------
+total de la lettre T est 20
+----------------------------------------------------------
+ulcar,.N+subst
+----------------------------------------------------------
+total de la lettre U est 1
+----------------------------------------------------------
+vastarel,.N+subst
+vincristine,.N+subst
+vancomycine,.N+subst
+valium,.N+subst
+vitamine b1,.N+subst
+vitamine d3,.N+subst
+vitamine b 6,.N+subst
+vitamine b12,.N+subst
+vitamine b6,.N+subst
+vitamine k 5,.N+subst
+vitamine d 3,.N+subst
+----------------------------------------------------------
+total de la lettre V est 11
+----------------------------------------------------------
+----------------------------------------------------------
+total de la lettre W est 0
+----------------------------------------------------------
+xyzall,.N+subst
+xalatan,.N+subst
+xanax,.N+subst
+----------------------------------------------------------
+total de la lettre X est 3
+----------------------------------------------------------
+----------------------------------------------------------
+total de la lettre Y est 0
+----------------------------------------------------------
+zyprexa,.N+subst
+zyloric,.N+subst
+zovirax,.N+subst
+zanidip,.N+subst
+zelitrex,.N+subst
+zoloft,.N+subst
+zestril,.N+subst
+----------------------------------------------------------
+total de la lettre Z est 7
+----------------------------------------------------------
+
+
+le total est 231
